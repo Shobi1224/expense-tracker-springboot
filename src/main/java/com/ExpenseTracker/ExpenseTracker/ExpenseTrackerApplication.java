@@ -13,29 +13,6 @@ public class ExpenseTrackerApplication {
 }
 
 
-// User Entity
-
-
-
-
-// Expense Entity
-
-
-
-
-// Expense Repository
-
-
-
-
-// Expense Service
-
-
-
-
-
-
-// Expense Controller
 
 
 
